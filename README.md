@@ -1,6 +1,6 @@
 # CL-HPE
 
-**CL-HPE: A Lightweight and Content-Aware Framework for Human Pose Estimation**
+**CL-HPE: Enhancing Human Pose Estimation via Lightweight Structural Attention Mechanisms**
 
 ---
 
