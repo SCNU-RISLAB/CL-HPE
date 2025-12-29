@@ -51,7 +51,7 @@ Input Image
 ### 1) Clone this repo 
 
 ```bash
-git clone [TODO: your_repo_url]
+git clone https://github.com/SCNU-RISLAB/CL-HPE.git
 cd CL-HPE
 ```
 
