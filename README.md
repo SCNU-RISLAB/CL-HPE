@@ -121,6 +121,16 @@ python train.py \
 
 ---
 
+##📄 Citation
+If you use this repository or models in your work, please cite:
+```
+@article{liu2025clhpe,
+  title  = {CL-HPE: Enhancing Human Pose Estimation via Lightweight Structural Attention Mechanisms},
+  author = {Liu, Yuehan and She, Shuyi and Li, Yating and Tang, Xiaoyu},
+  note   = {Under review at The Visual Computer},
+  year   = {2025}
+}
+```
 
 ## ✉️ Contact 
 
