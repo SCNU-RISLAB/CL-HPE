@@ -117,7 +117,8 @@ python train.py \
 ## 📌 Notes 
 
 * This repo is intended to reproduce the paper results and provide clean module implementations.
-* For fair comparison, the paper reports training **from scratch** and focuses on the **accuracy–efficiency trade-off**. 
+* For fair comparison, the paper reports training **from scratch** and focuses on the **accuracy–efficiency trade-off**.
+* This code is released for reproducibility as part of our ongoing submission to The Visual Computer (under review). Final citation details will be updated upon acceptance.*
 
 ---
 
